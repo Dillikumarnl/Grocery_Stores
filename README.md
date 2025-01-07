@@ -11,7 +11,7 @@ TAMIL SELVAN T
 Academic Year: 2023-2024
  
 ## Objective 
-To create a grocery store front end by atrracting Interfaces Using,
+To create a grocery store front end as attractive Interface Using,
  -Html5
  -Bootstrap3
  
