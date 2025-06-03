@@ -1,4 +1,4 @@
-Try it👍[ url: https://dillikumarnl.github.io/Grocery_Stores/](https://dillikumarnl.github.io/Grocery_Stores/)
+Try the Demo:👍[ url: https://dillikumarnl.github.io/Grocery_Stores/](https://dillikumarnl.github.io/Grocery_Stores/)
 
 # Grocery Delivery Application
  
