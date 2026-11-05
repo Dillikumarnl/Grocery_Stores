@@ -42,11 +42,13 @@
 
       <!-- Home -->
 
-      <section id="home">
+      <section id="home"  class="py-5 bg-light">
         <h1 class="text-center my-5">QUALITY PRODUCTS</h1>
         <p>“Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution; it represents the wise choice of many alternatives.” – William A. Foster</p>
         <div class="input-group m-4">
-            <input type="text" class="form-control" placeholder="Email Address" alt="who123@gmail.com">
+            <label>
+                <input type="text" class="form-control" placeholder="Email Address" alt="who123@gmail.com">
+            </label>
             <button class="btn signin" >Get Started</button>
         </div>
       </section>
@@ -123,9 +125,9 @@
 
 
       <!-- Product -->
-      <section id="product">
-        <div class="container m-5">
-            <h1 class="text-center"></h1>
+      <section id="product" class="py-5 bg-light">
+          <div class="container m-5">
+              <h1 class="text-center my-5">PRODUCT CARDS</h1>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12">
                 <div class="card" >
@@ -225,9 +227,9 @@
 
    <!-- Contact_Delivery -->
 
-   <section id="contact">
-    <div class="container">
-    <div class="row">
+   <section id="contact" class="py-5 bg-light">
+       <div class="container m-5">
+       <div class="row">
         <div class="col-lg-6 col-md-6 col-12">
             <img src="bgi.jfif" class="img-fluid" alt="bg">
     
@@ -235,9 +237,15 @@
         <div class="col-lg-6 col-md-6 col-12">
             <h1>CONTACT FOR DELIVERY</h1>
             <form class="mb-3">
-                <input type="text" placeholder="Enter your name" alt="name"/>
-                <input type="text" placeholder="Enter you EmailId" alt="emailID"/>
-                <textarea class="flow-control"  placeholder="Enter your message"></textarea>
+                <label>
+                    <input type="text" placeholder="Enter your name" alt="name"/>
+                </label>
+                <label>
+                    <input type="text" placeholder="Enter you EmailId" alt="emailID"/>
+                </label>
+                <label>
+                    <textarea class="flow-control"  placeholder="Enter your message"></textarea>
+                </label>
                 <button class="btn signin">Send Message</button>
             </form>
         </div>
